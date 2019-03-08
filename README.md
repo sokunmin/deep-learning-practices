@@ -3,8 +3,8 @@ A repository that I use to take notes and practice deep learning programming.
 # The notes include:
 
 ## Python 
-* Fluent Python: Clear, Concise, and Effective Programming
-* Python Tricks: A Buffet of Awesome Python Features
+* Fluent Python: Clear, Concise, and Effective Programming (Book)
+* Python Tricks: A Buffet of Awesome Python Features (Book)
 
 ## TensorFlow
 * Official TensorFlow tutorial/guides
