@@ -1,3 +1,5 @@
+# Practice makes perfect!
+
 A repository that I use to take notes and practice deep learning programming.
 
 # The notes include:
@@ -11,4 +13,4 @@ A repository that I use to take notes and practice deep learning programming.
 * Hands-on Machine Learning with Scikit-Learn and TensorFlow ([Book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) / [Example codes](https://github.com/ageron/handson-ml))
 * Official TensorFlow [Github](https://github.com/tensorflow/tensorflow) / [Models](https://github.com/tensorflow/models)
 
-... to be added more.
+Step by step ... to add more.
